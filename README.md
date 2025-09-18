@@ -1,5 +1,7 @@
 # React Diagram Web Parts
 
+An SPFx Web Part that generates Diagrams using the Mermaid language and javasscript library.
+
 ## Summary
 
 This solution contains a collection of web parts that make it easy
